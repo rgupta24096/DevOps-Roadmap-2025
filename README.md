@@ -18,15 +18,13 @@ Roadmap to master DevOps in 2025 with hands-on learning resources.
 - Learn **Linux commands** and shell scripting  
 - Understand networking concepts: TCP/IP, DNS, HTTP, SSH  
 
-📂 [Read More](01-Linux-Networking/Linux-Commands.md)  
 
 ---
 
 ## 🔥 Version Control (Git) 🔥 
 - Learn **Git Basics**: Branching, Merging, Rebase  
 - GitOps: ArgoCD, FluxCD  
-
-📂 [Read More](02-Version-Control/Git-Basics.md)  
+ 
 
 ---
 
@@ -34,7 +32,6 @@ Roadmap to master DevOps in 2025 with hands-on learning resources.
 - **Jenkins, GitHub Actions, GitLab CI/CD**  
 - Writing YAML-based pipelines  
 
-📂 [Read More](03-CI-CD/CI-CD-Basics.md)  
 
 ---
 
@@ -42,7 +39,7 @@ Roadmap to master DevOps in 2025 with hands-on learning resources.
 - **Docker:** Images, Containers, Compose  
 - **Kubernetes:** Pods, Deployments, Services, Helm  
 
-📂 [Read More](04-Containers-K8s/Docker-Basics.md)  
+ 
 
 ---
 
@@ -50,7 +47,7 @@ Roadmap to master DevOps in 2025 with hands-on learning resources.
 - **AWS:** EC2, S3, Lambda, IAM, RDS, EKS  
 - **Azure & Google Cloud**  
 
-📂 [Read More](06-Cloud-Platforms/AWS-Essentials.md)  
+
 
 ---
 
@@ -58,7 +55,7 @@ Roadmap to master DevOps in 2025 with hands-on learning resources.
 - **Terraform & Ansible**  
 - Infrastructure automation  
 
-📂 [Read More](05-IaC/Terraform-Basics.md)  
+
 
 ---
 
@@ -66,7 +63,7 @@ Roadmap to master DevOps in 2025 with hands-on learning resources.
 - **Prometheus, Grafana, ELK Stack**  
 - Log management and alerting  
 
-📂 [Read More](07-Observability/Monitoring-Tools.md)  
+
 
 ---
 
@@ -74,7 +71,7 @@ Roadmap to master DevOps in 2025 with hands-on learning resources.
 - **SAST/DAST Tools** – SonarQube, OWASP ZAP  
 - **Secrets Management** – HashiCorp Vault  
 
-📂 [Read More](08-Security-DevSecOps/DevSecOps-Concepts.md)  
+
 
 ---
 
@@ -82,7 +79,7 @@ Roadmap to master DevOps in 2025 with hands-on learning resources.
 - **SLI/SLO/SLA Metrics**  
 - **Chaos Engineering** – Tools like Chaos Monkey  
 
-📂 [Read More](09-SRE-Practices/SRE-Intro.md)  
+
 
 ---
 
