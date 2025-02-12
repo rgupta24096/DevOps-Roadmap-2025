@@ -1,5 +1,5 @@
 # 🚀 DevOps Roadmap 2025 🚀 
-Roadmap to master DevOps in 2025 with hands-on learning resources. 
+Roadmap to Master DevOps in 2025 with hands-on learning resources. 
 
 ## 📌 Table of Contents 📌  
 1. [Linux & Networking](#linux--networking)  
